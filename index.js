@@ -1,6 +1,5 @@
 var fs = require('fs')
 var exec = require('child_process').exec
-var byline = require('byline')
 var readEachLineSync = require('read-each-line-sync')
 
 module.exports = Historia
