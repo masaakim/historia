@@ -1,0 +1,8 @@
+yum install hoge
+historia start
+yum install php
+yum install php-mysql
+yum install httpd
+historia end
+yum remove hoge
+yum install piyo
