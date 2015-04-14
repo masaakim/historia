@@ -1,6 +1,6 @@
 {
   "name": "historia",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Build shellscript to setup server",
   "main": "index.js",
   "scripts": {
