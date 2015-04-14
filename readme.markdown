@@ -14,7 +14,7 @@ $ npm install historia -g
 2. Run `historia start` command when you install server software.
 3. Install packages.
 4. Run `historia end` command when you will finished install packages.
-5. Run `fc -ln c > historyFile` command to build command history file.
+5. Run `fc -ln 1 > historyFile` command to build command history file.
 6. Run `historia setup historyFile`
 7. You will get `setup.sh`
 
